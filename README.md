@@ -34,6 +34,3 @@ The processor handles **16-bit instructions** using **8-bit data buses** through
 - Validated segmented data transfer over 8-bit path.
 - Successfully integrated and simulated all modules.
 
----
-
-## 📂 Folder Structure
